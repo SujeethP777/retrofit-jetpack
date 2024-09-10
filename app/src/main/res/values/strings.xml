@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProductRetrofit3</string>
+    <string name="title_activity_product_detail">ProductDetailActivity</string>
+</resources>
